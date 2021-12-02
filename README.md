@@ -1,7 +1,7 @@
 ### Hi there, I'm William
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning react.js, bootstrap and node.js
+- 🔭 I’m currently studying
+- 🌱 I’m currently learning Go and Javascript
 - 📫 How to reach me: williamgabriel@outlook.com
 - 😄 Pronouns: he/his
 
