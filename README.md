@@ -6,10 +6,12 @@
 - 😄 Pronouns: he/his
 
 <div>
-        <a href="https://www.github.com/U-ilha">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=u-ilha&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-ilha&layout=compact&langs_count=10&theme=buefy"/>
-</div>  
+        
+[![U-ilha's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-ilha)](https://github.com/U-ilha/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-ilha&langs_count=10)](https://github.com/U-ilha/github-readme-stats)
+                
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
